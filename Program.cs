@@ -13,7 +13,7 @@ namespace Gethay_Console
                                             password: "Teste421@eq2@dd",
                                             cpf: "42553611314",
                                             rg: 624432142,
-                                            telefone: 942214712
+                                            telefone: 942211712
                                         );
 
            
