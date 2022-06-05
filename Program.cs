@@ -9,11 +9,11 @@ namespace Gethay_Console
             Pessoa pessoa =  new Pessoa( 
                                             name: "Geronimo", 
                                             age: "24", 
-                                            email: "geronimo.olanda@outlook.com",
+                                            email: "geronim@outlook.com",
                                             password: "Teste421@eq2@dd",
                                             cpf: "42553611314",
                                             rg: 624432142,
-                                            telefone: 932519855
+                                            telefone: 932544825
                                         );
 
            
